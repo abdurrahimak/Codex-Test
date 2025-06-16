@@ -1,0 +1,3 @@
+# .NET SDK requirement for this project
+# Install .NET SDK 7.0 to build and run
+# Example: https://learn.microsoft.com/dotnet/core/install
